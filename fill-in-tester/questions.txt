@@ -25,3 +25,4 @@ What is the network port for LDAP (secure - tcp/udp)?
 What is the network port for RDP?
 How many pins does a SODIMM DDR3 module have?
 How many pins does a SODIMM DDR4 module have?
+hehe
